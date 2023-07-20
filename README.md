@@ -7,7 +7,7 @@ For installation:
 
 1- Download or clone this repo.
 
-2- Go to chrome://extensions/ on your google chrome application.
+2- Go to `chrome://extensions/` on your google chrome application.
 
 3- Make sure to enable `developer mode`.
 
